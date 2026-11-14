@@ -1,4 +1,4 @@
-# Srinivasan E. — Professional Portfolio
+# Srinivasan E — Professional Portfolio
 
 A responsive, modern portfolio built with plain HTML, CSS, and JavaScript. It includes your profile photo, education, editable skills and project cards, GitHub/LinkedIn links, contact details, mobile navigation, theme switcher, project filters, scroll progress, and subtle reveal animations.
 
